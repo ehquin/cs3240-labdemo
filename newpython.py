@@ -1,0 +1,3 @@
+
+def grillz():
+    return "grillz"
